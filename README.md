@@ -1,4 +1,4 @@
-# Calculadora Java Switn
+# Calculadora Java Swing
 
 Programa realizado en Java Swing de una calculadora simple.
 
